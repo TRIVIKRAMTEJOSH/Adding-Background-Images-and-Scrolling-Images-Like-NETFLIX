@@ -1,1 +1,0 @@
-if a==7: else (print "enter the valid syntax")
