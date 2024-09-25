@@ -40,7 +40,7 @@ nav .action .signup{
     cursor: pointer;
     font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;
+    font-weight: 200;
     margin: 0 10px;
     width: 150px;
 }
@@ -58,6 +58,8 @@ nav .action .login{
     cursor: pointer;
     font-size: 14px;
     width: 100px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
 }
 nav .action .login:hover{
     background-color: white;
